@@ -6,7 +6,7 @@
 
 | | |
 |---|---|
-| GPU | NVIDIA GeForce RTX 4070 SUPER, 12 GiB (паспорт: 35.5 TFLOP/s FP32, 504 GB/s) |
+| GPU | NVIDIA GeForce RTX 4070 SUPER, 12 GiB (заявленная спецификация: 35.5 TFLOP/s FP32, 504 GB/s) |
 | Драйвер | 616.64 |
 | PyTorch / CUDA / cuDNN | 2.10.0+cu130 / 13.0 / 9.12.0 |
 | Python | 3.13.11 |
