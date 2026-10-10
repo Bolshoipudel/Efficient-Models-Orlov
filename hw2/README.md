@@ -60,7 +60,7 @@ python plots.py           # графики -> results/figures/, таблицы -
 
 | Файл | Содержимое |
 |---|---|
-| `presentation.pptx` | презентация с разбором статьи |
+| `XSA_presentation.pdf` | презентация с разбором статьи |
 | `model.py` | GPT в стиле nanoGPT: RoPE, LayerNorm после эмбеддингов, флаг `xsa`, sink-токены, флаг `no_self` для абляции |
 | `xsa_fast.py` | та же проекция XSA с выписанным вручную backward |
 | `data.py` | скачивание токенизированного FineWeb |
