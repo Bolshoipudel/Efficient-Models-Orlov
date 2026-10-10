@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+data/
+*.pt
+runs/
+results/bench.log
+results/sweep.log
